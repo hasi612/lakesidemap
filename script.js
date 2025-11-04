@@ -1,3 +1,6 @@
+
+console.log('✅ script loaded');
+
 const cells = document.querySelectorAll('.cell');
 const popup = document.getElementById('popup');
 const popupImg = document.getElementById('popup-img');
